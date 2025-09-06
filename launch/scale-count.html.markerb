@@ -316,7 +316,7 @@ The following commands create three new Machines by cloning an existing Machine:
 $ fly machine clone 21781973f03e89
 $ fly machine clone --region syd 21781973f03e89
 $ fly machine clone --region nrt 21781973f03e89
-```
+
 
 ## Scale down with `fly machine destroy`
 
